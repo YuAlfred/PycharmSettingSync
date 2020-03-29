@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert 'forEach' to 'for..of'" />
+    <ignoreAction name="Python/Convert collection to tuple" />
+  </component>
+</application>
